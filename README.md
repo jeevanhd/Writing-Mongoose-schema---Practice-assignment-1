@@ -6,7 +6,7 @@ Design a user management system for a web application to handle user authenticat
 
 ---
 
-create schema.js file and creat the schema in that file.
+create schema.js file and create the schema in that file.
 
 ## **Schema Requirements**
 
@@ -63,7 +63,7 @@ create schema.js file and creat the schema in that file.
 
 - Write a MongoDB schema for the above user management system, ensuring all required fields, unique constraints, and data types are correctly implemented.
 
-# **How to Fork and Set Up Your Repository**
+## **How to Fork and Set Up Your Repository**
 
 ---
 
@@ -78,20 +78,27 @@ create schema.js file and creat the schema in that file.
 ## **2. Clone the Repository to Your Personal GitHub**
 
 - After forking, you can download the project or push it directly to your personal GitHub repository:
+
   - **Option 1: Download and Push**
+
     1. Download the repository files from StackBlitz.
     2. Open your terminal/command prompt, navigate to the project folder, and run:
+
        ```bash
        git init
        git remote add origin <your_github_repo_url>
        ```
+
        Replace `<your_github_repo_url>` with your personal GitHub repository URL.
+
     3. Commit and push the files to your GitHub repository:
+
        ```bash
        git add .
        git commit -m "Completed the assignment"
        git push -u origin main
        ```
+
   - **Option 2: Push Directly**
     1. Use the **Push to GitHub** option in StackBlitz to directly connect and push the repository to your GitHub account.
 
